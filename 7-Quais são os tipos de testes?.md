@@ -7,3 +7,6 @@
 # Teste de desempenho, carga e stress
 # Testes automatizados
 # Testes na Prática
+
+#Nome: Ewerton dos Santos Araujo
+#RA:1800448

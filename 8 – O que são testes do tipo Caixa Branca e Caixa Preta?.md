@@ -1,5 +1,5 @@
 # O analista não tem acesso ao código fonte e desconhece a estrutura interna do sistema. É também conhecido como teste funcional, pois é baseado nos requisitos funcionais do software. O foco, nesse caso, é nos requisitos da aplicação, ou seja, nas ações que ela deve desempenhar.
-Para mostrar quais problemas que esse tipo de teste rastreia, podemos citar alguns exemplos:
+# Para mostrar quais problemas que esse tipo de teste rastreia, podemos citar alguns exemplos:
 #  Data de nascimento preenchida com data futura;
 #  Campos de preenchimento obrigatório que não são validados;
 #  Utilizar números negativos em campos tipo valor a pagar;-#  Botões que não executam as ações devidas;
@@ -8,5 +8,5 @@ Para mostrar quais problemas que esse tipo de teste rastreia, podemos citar algu
 # Caixa branca:
 # O analista  tem acesso ao código fonte, conhece a estrutura interna do produto sendo analisado e possibilita que sejam escolhidas partes específicas de um componente para serem avaliadas. Esse tipo de teste, também conhecido como teste estrutural, é projetado em função da estrutura do componente e permite uma averiguação mais precisa do comportamento dessa estrutura. Perceba que o acesso ao código facilita o isolamento de uma função ou ação, o que ajuda na análise comportamental das mesmas.
 
-#Nome: Ewerton dos Santos Araujo
-#RA:1800448
+# Nome: Ewerton dos Santos Araujo
+# RA:1800448
